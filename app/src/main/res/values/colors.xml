@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#100F0F</color>
+    <color name="primaryColorTranslucent">#BF100F0F</color>
+    <color name="secondaryColor">#0F3D3E</color>
+    <color name="tertiaryColor">#575757</color>
+    <color name="statusBarColor">#42855B</color>
+    <color name="textColor">#D6D6D6</color>
+    <color name="textColorOpposite">#272727</color>
+    <color name="background">#F1F1F1</color>
+    <color name="theme">#FFFFFF</color>
+    <color name="theme_inverse">#141414</color>
+    <color name="cardViewTextColor">@color/secondaryColor</color>
+    <color name="success">#E643A047</color>
+    <color name="successAlpha">#F253CA59</color>
+    <color name="danger">#E6CD2121</color>
+    <color name="shimmerLite">#E4E4E4</color>
+    <color name="shimmerDark">#D3D3D3</color>
+</resources>
