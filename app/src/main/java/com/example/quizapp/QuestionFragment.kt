@@ -153,6 +153,7 @@ class QuestionFragment : Fragment() {
     private fun updateQuestion(question: Question) {
         animates(binding.questionContent)
         binding.tvQuestion.text = question.lable
+        binding.tvImages.setImageResource(question.image)
         var i=question.options.size
         binding.option1.tvOption.text = question.options[0].lable
         binding.option1.llOption.setOnClickListener {
